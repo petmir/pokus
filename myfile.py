@@ -10,5 +10,6 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-print bcolors.WARNING + 'ahoj... heee))))]]]] něco změněno, aby byl konflikt... konflikt vyřešen' + bcolors.ENDC
-print bcolors.OKGREEN + bcolors.UNDERLINE + bcolors.BOLD + "ted něco tučně podtrženě zeleně" + bcolors.ENDC
+print bcolors.WARNING + 'ahoj... heee))))]]]] neco zmeneno aby byl konflikt... konflikt vyresen' + bcolors.ENDC
+print bcolors.OKGREEN + bcolors.UNDERLINE + bcolors.BOLD + "ted neco tucne podtrzene zelene" + bcolors.ENDC
+print "hello world"
