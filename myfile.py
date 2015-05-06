@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print 'ahoj'
+print 'ahoj... heee))))]]]] neco zmeneno aby byl konflikt...'
