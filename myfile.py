@@ -12,3 +12,4 @@ class bcolors:
 
 print bcolors.WARNING + 'ahoj... heee))))]]]] neco zmeneno aby byl konflikt... konflikt vyresen' + bcolors.ENDC
 print bcolors.OKGREEN + bcolors.UNDERLINE + bcolors.BOLD + "ted neco tucne podtrzene zelene" + bcolors.ENDC
+print "hello world"
